@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class demo8 {
     public static void main(String[] args) {
-        //只是数字判断 是否相等 必须要用== 如果是字符串可以直接使用
+        //只是数字判断 是否相等 必须要用== 如果是字符串可以直接使用 equals
         String name="刘波";
         String name2 = "ubo";
 
