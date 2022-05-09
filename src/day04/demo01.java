@@ -2,6 +2,7 @@ package  day04;
 class demo01{
     /**
      *
+     *
      * 代码缩进规范
      */
     public static void main(String[] args) {
