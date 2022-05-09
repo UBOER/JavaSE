@@ -9,5 +9,6 @@ public class demo10 {
         num = 20;
         System.out.println(num);
 
+        //别写死！
     }
 }
