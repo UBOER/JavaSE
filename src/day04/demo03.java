@@ -2,6 +2,9 @@ package day04;
 
 import java.util.Scanner;
 
+/**
+ * 学习了：Scanner输入时 不同类型变量的方法
+ */
 public class demo03 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
