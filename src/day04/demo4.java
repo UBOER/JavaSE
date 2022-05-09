@@ -1,5 +1,8 @@
 package day04;
 
+/**
+ *  学习了； 整除运算符，取余运算符
+ */
 public class demo4 {
     public static void main(String[] args) {
         //求商  取余数
