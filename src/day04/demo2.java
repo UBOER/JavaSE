@@ -18,6 +18,6 @@ class demo2{
         String str=sc.next();
 
         System.out.println("该字符串的值为：" +str);
-        //第二遍
+
     }
 }
