@@ -2,6 +2,7 @@ package day06;
 
 import java.util.Scanner;
 
+
 /**
  * 判断会员号是4位数就可以，不需要判断输入中文，以后在前面会讲
  */
