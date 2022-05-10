@@ -18,7 +18,7 @@ public class homework_day06_1 {
 
         answer = "没中";
         if (answer.equals("中奖")) {
-            System.out.println("我买车、资助希望工程、去欧洲旅游!");
+            System.out.println("我·买车、资助希望工程、去欧洲旅游!");
         } else {
             System.out.println("我买下一期体彩，继续烧高香");
         }
