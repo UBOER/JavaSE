@@ -8,7 +8,6 @@ public class demo1 {
         if(8==8){ //括号内的应该是布尔值，true才能进入if中 false不进入
             System.out.println("等于8");
         }
-
         if (!true) {
             System.out.println("能不能进来？2");//不能进来因为! 代表取反，！true恒假
 
