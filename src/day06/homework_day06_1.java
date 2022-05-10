@@ -6,6 +6,7 @@ package day06;
  * 欧洲旅游
  * 如果没中，我买下一期体彩，继续烧高香
  */
+
 public class homework_day06_1 {
     public static void main(String[] args) {
         String answer;//定义彩票是否中奖
