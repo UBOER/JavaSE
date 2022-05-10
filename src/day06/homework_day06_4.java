@@ -25,6 +25,7 @@ public class homework_day06_4 {
             System.out.println("请输入积分：");
             vipPoint=sc.nextInt();
 
+
             System.out.println("已录入的会员信息是：");
             System.out.println(vipNumber+"\t\t"+custmerBirthday+"\t\t"+vipPoint);
         } else {
