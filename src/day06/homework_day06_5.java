@@ -18,10 +18,10 @@ public class homework_day06_5 {
 
         if (score == 100) {
             System.out.println("爸爸给他买辆车");
+        } else if (score >= 60 && score < 90) {//注意这个条件一定要在mp4的上面，因为它范围要小一些！
+            System.out.println("妈妈给他买本参考书");
         } else if (score >= 60 && score < 100) {
             System.out.println("妈妈给他买MP4");
-        } else if (score >= 60 && score < 90) {
-            System.out.println("妈妈给他买本参考书");
         } else if (score>100) {
             System.out.println("考试成绩输入错误，请重新输入！(0-100)");
         } else {
