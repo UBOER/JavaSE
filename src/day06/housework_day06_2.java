@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class housework_day06_2 {
     //求各个位数
 
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
