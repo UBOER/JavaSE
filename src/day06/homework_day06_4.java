@@ -18,7 +18,7 @@ public class homework_day06_4 {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入会员号(<4位整数>)：");
         vipNumber = sc.nextInt();
-        if ((vipNumber / 1000 <= 9) && (vipNumber > 0)) {
+        if ((vipNumber / 1000 <= 9) && (vipNumber/1000 > 0)) {
             System.out.println("请输入会员生日(月/日<用两位数表示>)：");
             custmerBirthday=sc.next();
 
