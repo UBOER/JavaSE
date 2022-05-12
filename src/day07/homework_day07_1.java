@@ -42,11 +42,10 @@ public class homework_day07_1 {
         int button2 = sc.nextInt();
 
         if (button2 == 1) {
-            System.out.println("拨爸爸的号");}//号码是1的时候
-
+            System.out.println("拨爸爸的号");}
         else if (button2 == 2) {
-            System.out.println("拨妈妈的号");} //快捷键为2时
-
+            System.out.println("拨妈妈的号");
+        } //快捷键为2时
         else if (button2 == 3) {//快捷键为3时
             System.out.println("拨爷爷的号");
         } else if (button2 == 4) {//快捷键为4时
