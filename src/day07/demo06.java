@@ -18,5 +18,12 @@ public class demo06 {
          * 还有就是case后面的值不能重复，重复了会报错的！
          */
 
+        /**
+         * switch 能做的 ifelse 都能做
+         * switch只能处理等值条件判断
+         * 不一定能做if eles 的工作
+         * 以后开发 多数还是使用if eles
+         */
+
     }
 }
