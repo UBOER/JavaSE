@@ -25,6 +25,7 @@ public class homework_day07_1 {
             case 2:
                 System.out.println("拨妈妈的号");
                 break;
+
             case 3:
                 System.out.println("拨爷爷的号");
                 break;
