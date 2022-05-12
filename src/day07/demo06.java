@@ -15,6 +15,7 @@ public class demo06 {
          * char
          * boolean
          *
+         * 还有就是case后面的值不能重复，重复了会报错的！
          */
 
     }
