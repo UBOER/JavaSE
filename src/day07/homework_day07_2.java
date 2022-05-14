@@ -89,10 +89,7 @@ public class homework_day07_2 {
             }
 
 
-        }//最外层 if 结束的标志
-
-        //最外层 是用if else 写的，所以别忘了登录菜单还有个退出功能
-        else {
+        }/*最外层 if 结束的标志最外层 是用if else 写的，所以别忘了登录菜单还有个退出功能*/ else {
             System.out.println("谢谢您的支持，已经退出登陆。");
         }
 
