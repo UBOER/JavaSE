@@ -13,6 +13,7 @@ import java.util.Scanner;
  */
 public class homework_day07_2 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);//输入
         //先构建登录菜单页面：
         System.out.println("\t\t\t*****登录菜单*****");
