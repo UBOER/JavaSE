@@ -24,4 +24,3 @@ package day10;public class demo02 {
     }
 }
 
-}
