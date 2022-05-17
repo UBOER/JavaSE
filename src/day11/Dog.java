@@ -57,4 +57,9 @@ public  class Dog {
         return "str+" + name1;
     }
 
+
+    public  void print() {
+        System.out.println("宠物的自白：我的名字叫"+name+"\t"+"与主人亲密度"+love+"\t"+"健康值为"+health);
+    }
+
 }

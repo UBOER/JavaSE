@@ -27,7 +27,7 @@ public class TestDog2 {
          * 调用getStr3
          */
         String str;
-        str=   dog2.getStr3("蛋狗", "二狗");
+        str=dog2.getStr3("蛋狗", "二狗");
         System.out.println(str);
     }
 }
